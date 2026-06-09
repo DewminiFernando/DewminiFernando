@@ -136,7 +136,7 @@ An AI-powered study assistant concept that converts lecture PDFs into study guid
 
 ```diff
 + Dean’s List Recognition — Year 2 Semester 1
-+ Dean’s List Recognition — Year 2 Semester 2
++ Dean’s List Recognition — Year 1 Semester 2
 + Current GPA: 3.71
 ```
 
