@@ -25,7 +25,7 @@ role: IT Undergraduate | Full-Stack Developer | AI/ML Enthusiast
 location: Sri Lanka
 university: SLIIT
 degree: BSc (Hons) in Information Technology
-specialization: Information Systems Engineering
+specialization: Artificial Intelligence
 focus:
   - Full-Stack Web Development
   - REST API Development
