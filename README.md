@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Dewmi+Fernando;IT+Undergraduate+%7C+Full-Stack+Builder;AI%2FML+Learner+%7C+React+%7C+APIs;Building+Smart+Digital+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Dewmi+Fernando;AI+Undergraduate+%7C+Full-Stack+Builder;AI%2FML+Learner+%7C+React+%7C+APIs;Building+Smart+Digital+Products" alt="Typing SVG" />
 
 <br/>
 
@@ -171,9 +171,8 @@ Thanks for visiting my GitHub profile.
 I’m currently learning, building, and improving one project at a time.
 ```
 
-If you made it this far, you're awesome. 🙌
 I’m always open to collaboration, internship opportunities, and cool project ideas.
-Feel free to explore my repositories and drop a ⭐ if something catches your eye.
+Feel free to explore my repositories.
 
 <br/>
 
