@@ -120,7 +120,7 @@ A mobile travel planning app for Sri Lanka with destination discovery, trip plan
 </td>
 <td width="50%">
 
-### 🌱 StudySprout AI
+### 🌱 [StudySprout AI](https://github.com/DewminiFernando/studysprout.git)
 
 An AI-powered study assistant concept that converts lecture PDFs into study guides, key topics, question banks, answers, and quizzes.
 
