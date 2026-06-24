@@ -40,7 +40,7 @@ status: Seeking Software Engineering, Full-Stack & AI/ML Internship Opportunitie
 
 ## ⚡ ABOUT ME
 
-I’m a third-year undergraduate at SLIIT, following a BSc (Hons) in Information Technology specializing in Information Systems Engineering. I’m passionate about building practical software systems that combine clean user interfaces, reliable backend logic, databases, and intelligent features.
+I’m a third-year undergraduate at SLIIT, following a BSc (Hons) in Information Technology specializing in Artificial Intelligence. I’m passionate about building practical software systems that combine clean user interfaces, reliable backend logic, databases, and intelligent features.
 
 I enjoy working with React, Node.js, Java Spring Boot, REST APIs, SQL/NoSQL databases, and Python-based machine learning workflows. My projects mainly focus on full-stack applications, dashboards, CRUD systems, prediction models, and user-friendly digital products.
 
