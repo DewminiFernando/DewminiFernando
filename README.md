@@ -147,7 +147,7 @@ An AI-powered study assistant concept that converts lecture PDFs into study guid
 <div align="center">
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=DewminiFernando&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=7C3AED&area=true&hide_border=true&title_color=FFFFFF&custom_title=Dewmi%20Fernando%27s%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=DewminiFernando&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=7C3AED&area=true&hide_border=true&title_color=FFFFFF&custom_title=Dewmi%20Fernando%27s%20Contribution%20Graph&v=3"
   alt="Dewmi Fernando Contribution Graph"
 />
 
